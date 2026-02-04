@@ -1,12 +1,14 @@
 ﻿
-//using System;
+// using System;
 
-//class Program
-//{
+// class Program
+// {
 //    static void Main()
 //    {
-//        //Console.WriteLine("Hello, .net");
+//        Console.WriteLine("Hello, .net");
 
 
 //    }
-//}
+// }
+
+
